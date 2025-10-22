@@ -2,7 +2,7 @@
 #include <WiFiClient.h>
 #include <WebServer.h>
 
-const char ssid[] = "picoW";  // SSID
+const char ssid[] = "RaspberrypicoW";  // SSID
 const char pass[] = "password";   // password
 
 const IPAddress ip(192, 168, 1, 100);      // IPアドレス
